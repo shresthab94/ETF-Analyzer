@@ -1,4 +1,4 @@
-# Week-7-ETF-Analyzer
+# ETF-Analyzer
 ---
 
 
